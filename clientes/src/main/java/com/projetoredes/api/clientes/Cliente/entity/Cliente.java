@@ -1,4 +1,4 @@
-package com.projetoredes.api.clientes.Cliente.entity
+package com.projetoredes.api.clientes.Cliente.entity;
 
 import jakarta.persistence.*;
 import lombok.Data;
