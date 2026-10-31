@@ -1,5 +1,7 @@
 package com.projetoredes.api.clientes.Cliente.controller;
 
+import com.projetoredes.api.clientes.Cliente.entity.Cliente;
+import com.projetoredes.api.clientes.Cliente.service.ClienteService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

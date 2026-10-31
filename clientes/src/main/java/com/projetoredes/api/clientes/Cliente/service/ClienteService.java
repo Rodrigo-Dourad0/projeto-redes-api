@@ -1,5 +1,7 @@
 package com.projetoredes.api.clientes.Cliente.service;
 
+import com.projetoredes.api.clientes.Cliente.entity.Cliente;
+import com.projetoredes.api.clientes.Cliente.repository.ClienteRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import java.util.List;
